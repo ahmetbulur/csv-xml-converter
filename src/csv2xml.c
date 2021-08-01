@@ -23,7 +23,6 @@ typedef struct record r;
 
 int main() {
     
-    char operation[20];
     char inputfile[20];
     char outputfile[20];
     
